@@ -1,0 +1,24 @@
+
+.cea{
+ 
+    width: 110px;
+    height: 110px;
+ }
+ h1{
+    text-align:center;
+    
+ }
+body{
+    background-color: aquamarine;
+}
+div.content{
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     box-sizing: content-box;
+    margin:100px 500px;
+    padding:20px;
+    border:10px solid #f7ff12;
+    border-radius: 15%;
+}
